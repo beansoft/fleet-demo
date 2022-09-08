@@ -1,5 +1,6 @@
 package main
 
 func main() {
-	println("Hello");
+	want := "Hello, world Fleet Go."
+	println(want);
 }
