@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+          "type": "spring-boot",
+          "name": "mySpring",
+          "mainClass": "com.example.springdemo.SpringdemoApplication",
+          "module": "",
+        },
+
+    ]
+}
